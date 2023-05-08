@@ -1,0 +1,13 @@
+from,to,weight
+Juliane,Janis,3
+Juliane,Mama,3
+Juliane,Papa,3
+Janis,Mama,2
+Janis,Papa,2
+Janis,Juliane,3
+Mama,Papa,3
+Mama,Janis,2
+Mama,Juliane,3
+Papa,Mama,3
+Papa,Janis,2
+Papa,Juliane,3
